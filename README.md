@@ -18,7 +18,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Do not use quotes on the <details> tag attributes.
 -->
 
-<!--step0-->
+<!--step0
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
 
@@ -38,7 +38,7 @@ With GitHub Pages, you can host project blogs, documentation, resumes, portfolio
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-<!--endstep0-->
+endstep0-->
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -176,7 +176,7 @@ For more information about configuring front matter, see the [Jekyll frontmatter
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
 _Nice work, friend :heart:! People will be reading your blog in no time!_
